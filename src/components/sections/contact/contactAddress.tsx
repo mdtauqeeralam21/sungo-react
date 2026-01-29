@@ -30,7 +30,7 @@ const ContactAddress = () => {
                     <div className="content">
                         <p>Make a Quote</p>
                         <h3>
-                            <Link to="mailto:infotech@gmail.com">Solar@gmail.com</Link>
+                            <Link to="mailto:infotech@gmail.com">tauqeeralam21@gmail.com</Link>
                         </h3>
                     </div>
                 </div>
